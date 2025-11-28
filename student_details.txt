@@ -1,4 +1,4 @@
-ID  Username    time_in time_out    hours
+ID  Username        time_in   time_out    hours
 1   sindzscc-g-025   
 2   ndkhascc-g-025
 3   mitshscc-g-025
@@ -28,4 +28,4 @@ ID  Username    time_in time_out    hours
 29  zustescc-g-025
 30  larulscc-g-025
 31  mamokscc-g-025
-40  njntsscc-g-025
+40  njntsscc-g-02510:16:33
