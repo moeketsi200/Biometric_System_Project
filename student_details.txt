@@ -1,4 +1,4 @@
-ID  Username    time_in time_out    hours
+ID  Username        
 1   sindzscc-g-025   
 2   ndkhascc-g-025
 3   mitshscc-g-025
